@@ -1,0 +1,10 @@
+{
+  "server": "localhost",
+  "port": "27017",
+  "database": "school",
+  "collection": "gateway",
+  "user": "admin",
+  "password": "changeit",
+  "path": "/opt/splunk/etc/app/Mongodb_myapp"
+}
+
